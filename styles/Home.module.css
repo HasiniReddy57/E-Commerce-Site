@@ -1,0 +1,128 @@
+.Home {
+  display: flex;
+  flex-direction: row;
+  gap: 1vmin;
+  min-height: 100vh;
+}
+.admin_home{
+   background-color:#f8f9fa;
+}
+.CardItem {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 20%;
+  flex-wrap: wrap;
+  font-family: "Montserrat", sans-serif;
+  min-width: 200px;
+  background-color: white;
+  border-radius: 20px;
+  border:1px solid black;
+  position: relative;
+  overflow: hidden;
+  padding: 10px;
+  max-width: 260px;
+}
+
+.adminCardItem {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 20%;
+  flex-wrap: wrap;
+  font-family: "Montserrat", sans-serif;
+  min-width: 200px;
+  background-color: white;
+  border-radius: 20px;
+  border:1px solid black;
+  position: relative;
+  overflow: hidden;
+  padding: 10px;
+  max-width: 220px;
+}
+.bg_cls{
+  background-color: #f9f8fa;
+}
+
+.OtherCard {
+  flex-basis: 49% !important;
+}
+
+.ImageContent {
+  display: flex;
+  width: 120px;
+  height: 150px;
+  align-self: center;
+  align-items: center;
+  padding: 1vmin;
+}
+
+.CardPriceTag {
+  position: absolute;
+  z-index: 3;
+  right: 0;
+  top:0;
+  padding: 0.5em;
+  color: white;
+  border-bottom-left-radius: 20px;
+  top: 0;
+}
+
+.menu_item {
+  font-family: "Montserrat", sans-serif;
+}
+
+.menu_item_button {
+  width: 100%;
+  flex-shrink: 9;
+}
+
+.collapsible {
+  display: flex !important;
+  animation: collapseInput 0.75s ease-in;
+}
+
+.profile_body {
+  background-color: rgb(41, 37, 33);
+  font-family: "Montserrat", sans-serif;
+  height: 100vh;
+}
+.back_ground {
+  background-color: rgb(41, 37, 33);
+  width: 100vw;
+  height: 100vh;
+  margin-left: 10%;
+}
+
+.hoverCursor:hover {
+  cursor: pointer !important;
+}
+
+.Separator {
+  display: flex;
+  width: 1px;
+  background-color: black;
+}
+
+@media screen and (max-width: 500px) {
+  .Home {
+    flex-direction: column;
+  }
+  .Separator {
+    width: auto;
+    flex-direction: column;
+    height: 3px;
+  }
+}
+
+@keyframes collapseInput {
+  from{
+    max-width: 0;
+  }
+  to{
+    max-width: 999px;
+  }
+}
+.svg_item{
+
+  fill: white;
+
+}

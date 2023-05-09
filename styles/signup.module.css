@@ -1,0 +1,46 @@
+.img_display{
+    width:30%;
+    margin-left:10%;
+    /* margin-bottom: 40%; */
+    height: 500px;
+    width:500px;
+    margin-bottom: 10%;
+}
+@media screen  and (max-width:500px){
+
+    .form_display{
+        margin-left:0px ;
+        font-family: 'Montserrat', sans-serif;
+        
+    }
+
+}
+    
+
+
+.my-div{
+    display: flex;
+    width: 50%;
+    font-family: 'Montserrat', sans-serif;
+
+  
+}
+.img_div{
+    width: 20%;
+    display: inline-block;
+}
+.form_display{
+    margin-left:15% ;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.allcon{
+    font-family: 'Montserrat', sans-serif;
+
+ 
+}
+.home{
+   
+    font-family: 'Montserrat', sans-serif;
+    background-image: "https://th.bing.com/th/id/OIP.bctXka7_8vKhPD9M4EO6lAHaDm?pid=ImgDet&w=720&h=350&rs=1";
+}
