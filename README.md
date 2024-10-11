@@ -138,7 +138,7 @@ This project uses custom API routes for interacting with MongoDB and handling au
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
- Fork the project.
+1. Fork the project.
 2. Create your feature branch (`git checkout -b feature/your-feature`).
 3. Commit your changes (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
