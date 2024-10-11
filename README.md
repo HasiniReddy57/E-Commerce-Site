@@ -146,6 +146,13 @@ This project uses custom API routes for interacting with MongoDB and handling au
 ## Deployment
 The easiest way to deploy your Next.js app is to use the Vercel Platform, created by the makers of Next.js. Refer to the [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for detailed instructions.
 
+## Demonstration Video
+Check out this demonstration video to see Touch Feedback for Virtual Reality in action!
+
+[![Touch-Feedback-for-Virtual-Reality/Assets/Spinoverse.png](https://github.com/HasiniReddy57/Touch-Feedback-for-Virtual-Reality/blob/main/Assets/Spinoverse.png)](https://drive.google.com/file/d/1NQIL3MsY1MfwYd5NgHR7iM7MOYJ7xqmY/view)
+
+In this video, you can see how real-time interactions work within the VR meeting rooms, as well as a demonstration of the touch feedback system using ESP32-driven haptic devices.
+
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
