@@ -25,7 +25,7 @@ A responsive and modern e-commerce platform built using **Next.js**, **React Nat
 
 ## Project Structure
 
-```bash
+```ruby
 .
 ├── components
 │   ├── Home
