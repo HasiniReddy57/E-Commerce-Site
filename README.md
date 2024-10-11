@@ -112,7 +112,7 @@ The app will be running at http://localhost:3000.
 ```
 ## Usage
 ### Web Version
-1. Navigate to http://localhost:3000 to explore the web platform.
+1. Navigate to [LocalHost](http://localhost:3000) to explore the web platform.
 2. Use the admin panel to add, update, or delete products.
 3. Create an account, sign in, and add items to your cart or wishlist.
 ### Mobile Version
