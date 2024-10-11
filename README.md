@@ -135,6 +135,17 @@ This project uses custom API routes for interacting with MongoDB and handling au
   - `GET /api/users/[userId]`: Fetch user information.
   - `PATCH /api/users/[userId]`: Update user profile.
 
+## Learn More
+**To dive deeper into Next.js, explore the following resources:**
+
+- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
+- Learn [Next.js](https://nextjs.org) - An interactive tutorial on Next.js.
+- [Next.js GitHub Repository](https://github.com/vercel/next.js) - Your feedback and contributions are welcome!
+- Refer to [React Documentation](https://reactjs.org/docs/getting-started.html) for further analysis.
+
+## Deployment
+The easiest way to deploy your Next.js app is to use the Vercel Platform, created by the makers of Next.js. Refer to the [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for detailed instructions.
+
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
