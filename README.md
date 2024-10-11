@@ -124,24 +124,24 @@ To test the mobile app (React Native):
 This project uses custom API routes for interacting with MongoDB and handling authentication. Here are some key endpoints:
 
 - Authentication
-  - POST /api/auth/login: Login with email and password.
-  - POST /api/auth/signup: Register a new user.
+  - `POST /api/auth/login`: Login with email and password.
+  - `POST /api/auth/signup`: Register a new user.
 - Products
-  - GET /api/products: Fetch a list of all products.
-  - POST /api/products: Add a new product (Admin only).
-  - PATCH /api/products/[productId]: Update an existing product (Admin only).
-  - DELETE /api/products/[productId]: Delete a product (Admin only).
+  - `GET /api/products`: Fetch a list of all products.
+  - `POST /api/products`: Add a new product (Admin only).
+  - `PATCH /api/products/[productId]`: Update an existing product (Admin only).
+  - `DELETE /api/products/[productId]`: Delete a product (Admin only).
 - Users
-  - GET /api/users/[userId]: Fetch user information.
-  - PATCH /api/users/[userId]: Update user profile.
+  - `GET /api/users/[userId]`: Fetch user information.
+  - `PATCH /api/users/[userId]`: Update user profile.
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
  Fork the project.
-2. Create your feature branch (git checkout -b feature/your-feature).
-3. Commit your changes (git commit -m 'Add your feature').
-4. Push to the branch (git push origin feature/your-feature).
+2. Create your feature branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
 ## License
