@@ -149,7 +149,7 @@ The easiest way to deploy your Next.js app is to use the Vercel Platform, create
 ## Demonstration Video
 Check out this demonstration video to see Touch Feedback for Virtual Reality in action!
 
-[![Touch-Feedback-for-Virtual-Reality/Assets/Spinoverse.png](https://github.com/HasiniReddy57/E-Commerce-Site/blob/main/Next%20Ecommerce%20Website.png)](https://github.com/HasiniReddy57/E-Commerce-Site/blob/main/Next%20Ecommerce%20Website.mp4)
+[![Touch-Feedback-for-Virtual-Reality/Assets/Spinoverse.png](https://github.com/HasiniReddy57/E-Commerce-Site/blob/main/Next%20Ecommerce%20Website.png)](https://drive.google.com/file/d/1fcjsRyU3WQJbYH7oHZkgZVX-hfe15dlo/view?usp=sharing)
 
 In this video, you can see how real-time interactions work within the VR meeting rooms, as well as a demonstration of the touch feedback system using ESP32-driven haptic devices.
 
